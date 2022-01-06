@@ -2,9 +2,6 @@
   "name": "eleventy-api-img",
   "version": "1.0.0",
   "description": "A runtime service to optimize hosted images.",
-  "scripts": {
-    "test": "node test.js"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -21,7 +18,5 @@
   },
   "homepage": "https://github.com/11ty/api-img#readme",
   "dependencies": {
-    "@11ty/eleventy-img": "^1.0.0",
-    "@netlify/functions": "^0.10.0"
   }
 }

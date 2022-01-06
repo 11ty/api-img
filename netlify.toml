@@ -1,8 +1,5 @@
-[functions]
-directory = "functions"
-
 [[redirects]]
 from = "/*"
-to = "/.netlify/builders/img"
-status = 200
+to = "https://v1.img.11ty.dev/:splat"
+status = 301
 force = true
