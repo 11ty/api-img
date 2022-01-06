@@ -1,0 +1,27 @@
+{
+  "name": "eleventy-api-img",
+  "version": "1.0.0",
+  "description": "A runtime service to optimize hosted images.",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11ty/api-img.git"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/11ty/api-img/issues"
+  },
+  "homepage": "https://github.com/11ty/api-img#readme",
+  "dependencies": {
+    "@11ty/eleventy-img": "^1.0.0",
+    "@netlify/functions": "^0.10.0"
+  }
+}
