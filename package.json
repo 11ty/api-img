@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/11ty/api-img#readme",
   "dependencies": {
-    "@11ty/eleventy-img": "^1.0.0",
-    "@netlify/functions": "^0.10.0"
+    "@11ty/eleventy-img": "^2.0.1",
+    "@netlify/functions": "^1.0.0"
   }
 }
